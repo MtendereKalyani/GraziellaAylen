@@ -38,3 +38,25 @@ YT TUTORIAL!!
 - Password: `Sub2L3m0nCao`
 
 7. Your all setup! The VM will only stay up for 6 hours.
+
+### VN
+
+**CẢNH BÁO! Điều này chỉ dành cho mục đích giáo dục.**
+
+1. XEM BÁO CÁO NÀY.
+
+2. Tạo tài khoản (https://dashboard.ngrok.com/) [Ngrok](https://dashboard.ngrok.com/)
+
+3. Tạo bí mật trong cài đặt có tên là `NGROK_AUTH_TOKEN` và sử dụng mã thông báo xác thực mà bạn nhận được từ [trang mã thông báo xác thực](https://dashboard.ngrok.com/get-started/your-authtoken) 
+
+4. Đi đến `Actions`, sau đó nhấp vào `L3m0nRDP` và chạy quy trình làm việc.
+
+5. Chờ cho đến khi mọi thứ ngoại trừ (ngoại trừ `Create Tunnel`) hoàn thành. Mở RDP và chuyển đến [Trạng thái điểm dừng Ngrok](https://dashboard.ngrok.com/endpoints/status)
+
+6. Nếu bạn thấy một cái gì đó giống như `tcp://#.tcp.ngrok.io:#####` (thí dụ: `tcp://0.tcp.ngrok.io:17390`), điều đó có nghĩa là nó được thiết lập đúng cách! Xóa `tcp: //` và Kết nối với các chi tiết này:
+
+- Tên tài khoản: `runneradmin` 
+
+- Mật khẩu: `Sub2L3m0nCao`
+
+7. Tất cả thiết lập của bạn! RDP sẽ chỉ hoạt động trong 6 giờ.
